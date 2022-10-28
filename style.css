@@ -787,8 +787,8 @@ h4 {
     color: #F3976C!important;
     font-size: 22px;
     line-height: 1.4em;
-    text-transform: none;
-    font-weight: 400;
+    text-transform: none!important;
+    font-weight: 400!important;
 }
 
 .btn-atomic-tangerine {
