@@ -1050,11 +1050,12 @@ h4 {
         margin-top: 30px;
     }
 
-    .col-sm-21 {
+    
+
+    .img_titre {
         width : 100%; 
         height : auto;
     }
-
 
     form {
         padding: 5px;
