@@ -956,10 +956,10 @@ h4 {
     .nav > li {
         margin-top: 0;
         border-bottom: 1px solid rgba(0, 0, 0, .1);
-        background: rgba(0, 0, 0, .05);
-        text-align: left;
         padding-left: 15px;
-        width: 100%;
+        width: 80%;
+        display: flex;
+        justify-content: center;
     }
     .nav > li:hover {
         background: rgba(0, 0, 0, .08);
@@ -1044,13 +1044,13 @@ h4 {
         padding: 5px;
         display: flex;
         justify-content: center;
+        width: 90%;
     }
 
     #form1 {
         display: flex;
         flex-direction: column;
-        justify-content: center;
-        padding: 0 20px 0 20px;
+        justify-content: center;  
     }
 
     .close-lightbox {
