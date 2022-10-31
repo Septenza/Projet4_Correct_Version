@@ -987,6 +987,11 @@ h4 {
         border-right-color: transparent;
         border-left-color: transparent;
     }
+
+    .collapse.navbar-collapse.navbar-1.special-dropdown-nav {
+        display: contents;
+    }
+
     #hero-bloc .navbar .nav {
         background: rgba(0, 0, 0, .8);
     }
