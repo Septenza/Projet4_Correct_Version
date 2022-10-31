@@ -956,8 +956,8 @@ h4 {
     .navbar .nav {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
-        float: none!important;
-        margin-left: auto;
+        /* float: none!important; */
+        
     }
     .navbar.row {
         margin-left: 0;
