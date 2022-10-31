@@ -919,6 +919,9 @@ h4 {
     }
 }
 
+
+/* Format mobile */
+
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
@@ -938,6 +941,12 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
+    
+    .navbar-header {
+        display: flex;
+        justify-content: center;
+    }
+
     .navbar .nav {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
@@ -1040,6 +1049,14 @@ h4 {
     .voffset-lg {
         margin-top: 30px;
     }
+
+    .col-sm-21 {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
     form {
         padding: 5px;
         
