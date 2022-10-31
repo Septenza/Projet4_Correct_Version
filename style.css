@@ -991,7 +991,6 @@ h4 {
 
     .collapse.navbar-collapse.navbar-1.special-dropdown-nav {
         display: contents;
-        display: flex;
     }
 
     #hero-bloc .navbar .nav {
