@@ -762,6 +762,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
+    height: auto;
 }
 
 .portfolio-row {
@@ -1050,9 +1052,15 @@ h4 {
         margin-top: 30px;
     }
 
-    
-
     .img_titre {
+        width : 100%; 
+        height : auto;
+    }
+    .img_citation {
+        width : 100%; 
+        height : auto;
+    }
+    .img_title2 {
         width : 100%; 
         height : auto;
     }
