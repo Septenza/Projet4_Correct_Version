@@ -747,6 +747,8 @@ h4 {
 .white {
     color: #e7e4e4!important;
     font-size: 15px;
+    display: flex;
+    justify-content: center;
 }
 
 .portfolio-thumb {
@@ -795,6 +797,9 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1027,6 +1032,13 @@ h4 {
     form {
         padding: 5px;
     }
+
+    #form1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
     .close-lightbox {
         display: inline-block;
     }
