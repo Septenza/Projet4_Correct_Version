@@ -963,6 +963,7 @@ h4 {
         justify-content: center;
         flex-direction: column;
         align-items: center;
+        margin-right: 0;
     }
     .navbar.row {
         margin-left: 0;
