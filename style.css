@@ -865,8 +865,12 @@ h4 {
     background-image: url("img/image-de-presentation.avif");
 }
 
-/*
+
 @media (max-width: 1024px) {
+    .nav .navbar-nav {
+        margin-right: 50px;
+    }
+    
     .bloc {
         padding-left: 20px;
         padding-right: 20px;
@@ -879,7 +883,7 @@ h4 {
         padding-right: 0;
     }
 }
-*/
+
 
 @media (max-width: 992px) and (min-width: 768px) {
     .navbar .nav {
