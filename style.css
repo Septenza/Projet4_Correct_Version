@@ -956,8 +956,13 @@ h4 {
     .navbar .nav {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
-        /* float: none!important; */
-        
+        float: none;
+        z-index: 1;
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
     }
     .navbar.row {
         margin-left: 0;
